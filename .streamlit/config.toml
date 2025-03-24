@@ -1,0 +1,20 @@
+[server]
+headless = true
+address = "0.0.0.0"
+port = 5000
+
+[theme]
+# Primary accent color for interactive elements
+primaryColor = "#25c0d8"  # Bright dental blue
+
+# Background color for the main content area
+backgroundColor = "#ffffff"  # Clean white background
+
+# Background color used for the sidebar and most interactive widgets
+secondaryBackgroundColor = "#f0f8ff"  # Light blue hint
+
+# Color used for almost all text
+textColor = "#1e3a5f"  # Dark blue text
+
+# Font family for all text in the app, except code blocks
+font = "sans-serif"

@@ -1,0 +1,25 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Mouth outline -->
+  <ellipse cx="150" cy="100" rx="120" ry="70" fill="#FFCECE" stroke="#FF9999" stroke-width="2"/>
+  <ellipse cx="150" cy="100" rx="110" ry="60" fill="#FFA5A5" stroke="#FF7777" stroke-width="1"/>
+  
+  <!-- Upper teeth -->
+  <rect x="90" y="60" width="20" height="25" rx="3" fill="white" stroke="#CCCCCC"/>
+  <rect x="115" y="55" width="20" height="28" rx="3" fill="white" stroke="#CCCCCC"/>
+  <rect x="140" y="53" width="20" height="30" rx="3" fill="white" stroke="#CCCCCC"/>
+  <rect x="165" y="55" width="20" height="28" rx="3" fill="white" stroke="#CCCCCC"/>
+  <rect x="190" y="60" width="20" height="25" rx="3" fill="white" stroke="#CCCCCC"/>
+  
+  <!-- Lower teeth -->
+  <rect x="90" y="115" width="20" height="25" rx="3" fill="white" stroke="#CCCCCC"/>
+  <rect x="115" y="117" width="20" height="28" rx="3" fill="white" stroke="#CCCCCC"/>
+  <rect x="140" y="118" width="20" height="30" rx="3" fill="white" stroke="#CCCCCC"/>
+  <rect x="165" y="117" width="20" height="28" rx="3" fill="white" stroke="#CCCCCC"/>
+  <rect x="190" y="115" width="20" height="25" rx="3" fill="white" stroke="#CCCCCC"/>
+  
+  <!-- Camera positioning guide -->
+  <rect x="50" y="40" width="200" height="120" stroke="#3366FF" stroke-width="2" stroke-dasharray="5,5" fill="none"/>
+  
+  <!-- Text label -->
+  <text x="150" y="20" font-family="Arial" font-size="12" text-anchor="middle">Position camera to frame teeth</text>
+</svg>
