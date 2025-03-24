@@ -2,7 +2,7 @@
 
 An interactive web application that uses computer vision and image processing to analyze dental images, detect potential decay, and provide personalized dental health recommendations.
 
-![Dental Decay Detector Screenshot](https://github.com/your-username/dental-decay-detector/raw/main/assets/app_screenshot.png)
+![Dental Decay Detector Screenshot]
 
 ## 🔍 Features
 
@@ -57,9 +57,6 @@ streamlit run app.py
 - `reminder_system.py`: Appointment reminder functionality
 - `language_support.py`: Multi-language translation service
 
-## ⚠️ Disclaimer
-
-This application is for educational and demonstration purposes only. It is not a substitute for professional dental advice, diagnosis, or treatment. Always seek the advice of your dentist or other qualified health provider with any questions you may have regarding a dental condition.
 
 ## 📄 License
 
@@ -67,4 +64,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-- Your Name - [GitHub Profile](https://github.com/your-username) - [LinkedIn](https://linkedin.com/in/your-profile)
+- Your Name - [GitHub Profile] https://github.com/Priyanshu112N - [LinkedIn] https://www.linkedin.com/in/priyanshu-naidu-b29894148/
