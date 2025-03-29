@@ -35,7 +35,7 @@ Try out the app: [Live Demo Link]
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/dental-decay-detector.git
+git clone https://github.com/Priyanshu112N/DentalScanDetector
 
 # Navigate to the project directory
 cd dental-decay-detector
